@@ -20,7 +20,7 @@ function Max(a: number, b: number, c: number) {
     if (c > max) max = c;
     return max;
 }
-
+//ylyfy
 export default function Lesson2() {
     const [counter, setCounter] = useState(0);
     function handClickIncreament (){
