@@ -6,9 +6,7 @@ function Contact () {
       console.log("hn");
       console.log("abc@gmail.com");
 }
-Contact();
-Contact();
-Contact();
+ 
 function ContactParam(nam: string, age: number, address: string, email: string){
     console.log(`Name: ${name}`);
     console.log(`Age: ${age}`);
